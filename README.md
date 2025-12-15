@@ -1,17 +1,20 @@
 # 👋 Hi, I'm Mirsa
 
-I’m a software developer focused on building modern, scalable, and maintainable web applications.
-My primary interest lies in backend architecture and full-stack development, with a strong emphasis on clean code, system design, and long-term maintainability.
+I am a software developer focused on building modern, scalable, and maintainable web applications.
+My core interest lies in backend architecture and backend-centric full-stack development, with a strong emphasis on clean code, clear system design, and long-term maintainability.
+
+I value structure, clarity, and thoughtful engineering decisions over short-term solutions.
 
 ---
 
 ## 🧭 Professional Focus
-- Designing and developing web applications  
-- Backend architecture & API design  
-- Writing clean, readable, and scalable code  
-- Continuous learning and technical improvement  
+- Designing and developing robust web applications
+- Backend architecture and RESTful API design
+- Writing clean, readable, and scalable code
+- Improving system structure, performance, and reliability
+- Continuous learning and technical growth
 
-Currently working on strengthening my backend expertise and refining my full-stack projects.
+Currently focused on strengthening backend expertise and refining real-world full-stack projects.
 
 ---
 
@@ -46,6 +49,33 @@ Currently working on strengthening my backend expertise and refining my full-sta
 - Postman
 - Bash & PowerShell
 - Markdown
+
+---
+
+## 🎯 Current Focus
+- Building backend-centric full-stack applications using Node.js, NestJS, and PostgreSQL
+- Improving system design, scalability, and API architecture
+- Applying clean architecture principles in practical projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart E-Commerce Platform (In Progress)
+A scalable e-commerce platform designed with a strong focus on backend architecture, clean code practices, and maintainable system design.  
+The project emphasizes modular structure, clear domain boundaries, and extensibility.
+
+**Tech:** TypeScript, Node.js, NestJS, PostgreSQL, Prisma, Docker  
+➡️ Repository: https://github.com/Mirsa-Code/Smart_E-Commerce_App
+
+---
+
+### 🔹 Automated Trading Bot (MetaTrader 5)
+An automated trading bot that integrates with the MetaTrader 5 API to execute trading strategies based on real-time market data.  
+The project demonstrates backend logic, API integration, and automation concepts.
+
+**Tech:** Python, MetaTrader5 API  
+➡️ Repository: https://github.com/Mirsa-Code/trading-bot-mit-python-metatrader-5
 
 ---
 
